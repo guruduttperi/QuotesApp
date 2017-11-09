@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Perichetla/AndroidStudioProjects/QuotesApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/Perichetla/AndroidStudioProjects/QuotesApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_023cd17e8b7d743f4dceb75e0e5aaf351d6340f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Perichetla/AndroidStudioProjects/QuotesApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/Perichetla/AndroidStudioProjects/QuotesApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_4e7da4e3545200220fc479f15eeb99b26ecb7a12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Perichetla/AndroidStudioProjects/QuotesApp/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/Perichetla/AndroidStudioProjects/QuotesApp/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.2_7263e9699828294d3567b4cd1a7a857244d14e22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Perichetla/AndroidStudioProjects/QuotesApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/Perichetla/AndroidStudioProjects/QuotesApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_b14063fa3b2ef6438b9ef979db9da77aa7022e8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Perichetla/AndroidStudioProjects/QuotesApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/Perichetla/AndroidStudioProjects/QuotesApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_737f073eac1420d985238b344411e9f0cd02eb8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Perichetla/AndroidStudioProjects/QuotesApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/Perichetla/AndroidStudioProjects/QuotesApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_138cf7975c4099b9bdefa8247514b4153a91d80d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Perichetla/AndroidStudioProjects/QuotesApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Perichetla/AndroidStudioProjects/QuotesApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_0913fe8686ec76e00d2354f423564de8d2d6b252.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Perichetla/AndroidStudioProjects/QuotesApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/Perichetla/AndroidStudioProjects/QuotesApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_a7a3cddf62bec6ca14cf2baf8b7c821a5c17dafa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Perichetla/AndroidStudioProjects/QuotesApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/Perichetla/AndroidStudioProjects/QuotesApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_ba9d3d996a9a4ac34d8d521b07c105b07d751a26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Perichetla/AndroidStudioProjects/QuotesApp/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30a4938ea5235ccf532b3e9f04200e68547e36ad">
+        <dex dex="/Users/Perichetla/AndroidStudioProjects/QuotesApp/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.2.0_7c8681d04896efa3591b85d2c75a2aad7fdc069d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Perichetla/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/Perichetla/AndroidStudioProjects/QuotesApp/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_f9d5175449ba04b29f14d8cfe4f4ca15a6e2e2f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Perichetla/AndroidStudioProjects/QuotesApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/Perichetla/AndroidStudioProjects/QuotesApp/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_c6a6c519f3c2a185679deed3652f185bbb2833ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Perichetla/AndroidStudioProjects/QuotesApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/Perichetla/AndroidStudioProjects/QuotesApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_c5e6f182001be54a6305d8826c3f26b9f5758923.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Perichetla/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/Perichetla/AndroidStudioProjects/QuotesApp/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_2fdef07dc06d141066d9fc34811a1aab82f0c69c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Perichetla/AndroidStudioProjects/QuotesApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/Perichetla/AndroidStudioProjects/QuotesApp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_a7d4054c3519375a788704c91653151be18f627a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Perichetla/AndroidStudioProjects/QuotesApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/Perichetla/AndroidStudioProjects/QuotesApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_fd266b82b79861c550e5566192f66b2669fdc6df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Perichetla/AndroidStudioProjects/QuotesApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/Perichetla/AndroidStudioProjects/QuotesApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_75c5053a89b1cf5507d035056d83f3907f5a593c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Perichetla/AndroidStudioProjects/QuotesApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/Perichetla/AndroidStudioProjects/QuotesApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_e1bb4101cbe10f18f7e12a430ee296fff2dff9b2.jar" />
+    </item>
+
+</items>
