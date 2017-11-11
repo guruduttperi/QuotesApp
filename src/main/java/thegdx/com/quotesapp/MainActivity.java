@@ -29,7 +29,6 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick (View view) {
                 QuoteServe qs = new QuoteServe();
-                //System.out.println("What's up?");
                 quoteText.setText(qs.getRandomQuote());
             }
         });
